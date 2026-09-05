@@ -171,3 +171,5 @@ If you find a bug or have an idea for a feature, open an issue on GitHub.
 ---
 
 **NOVA — Convert your media. Keep it local.**
+
+Note: i Made It With Ai So I Just Tried To Save My Self SomeTime From Shady Websites And Saving Yours Too!
