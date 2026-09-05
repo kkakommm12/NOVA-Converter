@@ -129,14 +129,14 @@ FFPROBE = find_executable("ffprobe")
 # ============================================================
 # MAIN APP
 # ============================================================
-
 class NovaConverter(ctk.CTk):
+
     def __init__(self):
         super().__init__()
 
-        self.iconbitmap(r"D:\MP3Converter\Icon.ico")
-
-
+        icon_path = Path(__file__).resolve().parent / "Icon.ico"
+        self.iconbitmap(str(icon_path))
+        
         # ----------------------------------------------------
         # WINDOW
         # ----------------------------------------------------
